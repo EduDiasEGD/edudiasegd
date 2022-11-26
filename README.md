@@ -23,10 +23,10 @@ Técnico em Informática | Desenvolvedor Back-End e Front-End | Estudante de TI
   <a href="https://www.linkedin.com/in/eduardo-gdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:eduardogdias.contato2021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
-
+<!--
 ![Snake animation](https://github.com/EduDiasEGD/EduDiasEGD/blob/output/github-contribution-grid-snake.svg)
 
-<!--
+
 **EduDiasEGD/edudiasegd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
