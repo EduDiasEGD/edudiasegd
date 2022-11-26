@@ -20,7 +20,7 @@ Técnico em Informática | Desenvolvedor Back-End e Front-End | Estudante de TI
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/eduardo-gdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-gdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:eduardogdias.contato2021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 <!--
